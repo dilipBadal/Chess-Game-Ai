@@ -1,0 +1,16 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 800
+
+TABLE_ROWS = 8
+TABLE_COLUMNS = 8
+
+MOVE_COLOR2 = "#00C957"
+MOVE_COLOR1 = "lightgreen"
+
+KING_POS = (0, 0)
+
+BOARD = SCREEN_WIDTH // TABLE_COLUMNS
+
+login_failed = False
+SAVE = False
+
