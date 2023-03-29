@@ -145,8 +145,8 @@ class Login:
 class SendOtp:   # Class to send OTP
 
     def __init__(self):
-        self.sender_email = "princegamer48@gmail.com"
-        self.sender_pass = "nwmppkfufbiynqpv"    # App password for the above email
+        self.sender_email = ""  # Your Email ID
+        self.sender_pass = ""   # App password for the Your email, app password is gained specially and it is not your ususal email password
         self.receiver_email = None
         self.sent_otp = None
 
